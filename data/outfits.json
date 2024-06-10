@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "mood": "Elegant and modern",
+    "sections": [
+      {
+        "image": "/outfit1.jpg",
+        "pieces": [
+          { "name": "Blazer", "link": "#", "budgetVersion": "#" },
+          { "name": "Shirt", "link": "#", "budgetVersion": "#" },
+          { "name": "Trousers", "link": "#", "budgetVersion": "#" }
+        ]
+      },
+      {
+        "image": "/outfit2.jpg",
+        "pieces": [
+          { "name": "Jacket", "link": "#", "budgetVersion": "#" },
+          { "name": "Sweater", "link": "#", "budgetVersion": "#" },
+          { "name": "Jeans", "link": "#", "budgetVersion": "#" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "mood": "Casual and trendy",
+    "sections": [
+      {
+        "image": "/outfit3.jpg",
+        "pieces": [
+          { "name": "T-shirt", "link": "#", "budgetVersion": "#" },
+          { "name": "Shorts", "link": "#", "budgetVersion": "#" },
+          { "name": "Sneakers", "link": "#", "budgetVersion": "#" }
+        ]
+      },
+      {
+        "image": "/outfit4.jpg",
+        "pieces": [
+          { "name": "Hoodie", "link": "#", "budgetVersion": "#" },
+          { "name": "Joggers", "link": "#", "budgetVersion": "#" },
+          { "name": "Trainers", "link": "#", "budgetVersion": "#" }
+        ]
+      }
+    ]
+  }
+]
